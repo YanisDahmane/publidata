@@ -16,7 +16,8 @@ app/\
 └── services/\
 │   └── invitation_processor.rb\
 config/\
-└── routes.rb
+└── routes.rb\
+Gemfile
 
 ## Exemple d'utilisation concret
 
